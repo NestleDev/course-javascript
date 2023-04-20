@@ -12,7 +12,9 @@
 
  Другими словами: функция должна возвращать в неизменном виде то, что поступает ей на вход
  */
-function returnFirstArgument() {}
+function returnFirstArgument() {
+  console.log('hello')
+}
 
 /*
  Задание 2:
